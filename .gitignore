@@ -1,0 +1,22 @@
+logs
+
+lib-cov
+
+coverage
+
+.recommenders
+target/
+Evidences/
+*.meta/
+*.settings/
+*.classpath
+*.jsdtscope
+bin/
+.metadata
+.project
+.idea/
+
+# Package Files #
+*.war
+*.ear
+
